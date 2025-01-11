@@ -1,3 +1,4 @@
+//this is management system
 #include<iostream>
 using namespace std;
 void Inputdata(string names[], double weights[], int n, string wei[]) {
