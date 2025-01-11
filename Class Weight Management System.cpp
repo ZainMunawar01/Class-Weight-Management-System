@@ -2,7 +2,7 @@
 using namespace std;
 void Inputdata(string names[], double weights[], int n, string wei[]) {
     for (int i=0; i<n; i++) {
-        cout<<"Enter the name of student: ";
+        cout<<"Enter the name: ";
         cin>>names[i];
 
         do {
